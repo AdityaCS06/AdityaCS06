@@ -2,7 +2,7 @@ import sqlite3
 
 con=sqlite3.connect("blog_project.db")
 try:
-    command = "DELETE FROM frontend_users;"
+    command = "DELETE FROM frontend_users where email='aditaaya@gmail.com';"
     cursor = con.cursor()
     cursor.execute(command)
     con.commit()

@@ -10,6 +10,7 @@ class Validation:
         password:str
     ):
         phone_no=str(phone)
+        
         if not username.strip():
             return {"message": "Username is invalid"}
         if not email.strip():
