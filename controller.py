@@ -26,7 +26,7 @@ from dependencies import Validation, Generator
 def register_user(
     request: User,
     sql: Session = Depends(get_db),
-):
+): 
     # Check for blank fields
     Validation.blank_field_check(
         request.username, request.email, request.phone, request.password
