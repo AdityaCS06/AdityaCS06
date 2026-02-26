@@ -56,10 +56,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaCS06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaCS06&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15" />
 </p>
 
 ---
