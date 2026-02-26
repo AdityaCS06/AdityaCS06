@@ -58,7 +58,7 @@
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdityaCS06&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15" />
 </p>
 
@@ -66,7 +66,7 @@
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AdityaCS06&icon=5&color=6" />
-</p>
+</p> -->
 
 <!-- ===================== FOOTER ===================== -->
 
