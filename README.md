@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=220&section=header&text=Aditya%20Kumar%20Kori&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20|%20FastAPI%20|%20System%20Design&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:141E30,100:243B55&text=Aditya%20Kumar%20Kori&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Backend%20Engineer%20|%20FastAPI%20|%20Distributed%20Systems&descAlignY=65&descAlign=50"/>
 </p>
 
 ---
