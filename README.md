@@ -15,7 +15,16 @@
 ---
 
 ## 🛠 Tech Stack
+## 🚀 Tech Stack
 
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb)](https://skillicons.dev)
+
+### Dev & Deployment
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,linux)](https://skillicons.dev)
 ### 🚀 Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
